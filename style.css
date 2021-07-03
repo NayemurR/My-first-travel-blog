@@ -1,0 +1,20 @@
+.coxsbazar{
+    background-color: peachpuff;
+    border: 10px solid rgb(63, 50, 75);
+    border-radius: 20px;
+    margin: 10px 20px 10px 20px;
+    padding: 20px 30px 40px 20px;
+}
+.welcome{
+    background-color: rosybrown;
+    padding-top: 5%;
+}
+.title{
+    text-align: center;
+    font-size: 25px;
+    font-family:monospace;
+
+} 
+.coxsbazar p{
+    text-align: justify;
+}
